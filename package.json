@@ -1,0 +1,22 @@
+{
+  "name": "opensea-sniper-bot",
+  "version": "1.0.0",
+  "description": "Simple opensea sniper bot using opensea-js",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockchainexpertbc/opensea-sniper-bot.git"
+  },
+  "author": "blockchainexpertbc",
+  "homepage": "https://github.com/blockchainexpertbc/opensea-sniper-bot",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "bignumber.js": "^9.0.2",
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16",
+    "opensea-js": "^3.0.4"
+  }
+}
