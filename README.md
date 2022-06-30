@@ -2,17 +2,17 @@
 
  # ❗❗❗❗ **WARNING** ❗❗❗❗
 
-[THIS](https://github.com/blockchainexpertbc/opensea-sniper-bot/) is the only official version of the bot
+[THIS](https://github.com/mykhailosavchuk/opensea-sniper-bot/) is the only official version of the bot
 
 I can only ensure the integrity of this version. If you use any fork, it will be at your own risks
 
--blockchainexpertbc
+-mykhailosavchuk
 
 
 
 ## Installation
 ```
-git clone https://github.com/blockchainexpertbc/opensea-sniper-bot.git
+git clone https://github.com/mykhailosavchuk/opensea-sniper-bot.git
 cd ./opensea-sniper-bot
 npm install
 ```
